@@ -1,0 +1,31 @@
+{
+  "name": "gamemaster",
+  "version": "0.0.1",
+  "description": "Deploy HuntJS application for MEAN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vodolaz095/gamemaster.git"
+  },
+  "keywords": [
+    "hunt",
+    "deploy",
+    "mean",
+    "angular"
+  ],
+  "author": "Anatolij Ostroumov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vodolaz095/gamemaster/issues"
+  },
+  "homepage": "https://github.com/vodolaz095/gamemaster",
+  "dependencies":{
+    "hunt":"latest",
+    "bower":"latest",
+    "forever":"latest",
+    "mincer":""
+  }
+}
